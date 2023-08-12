@@ -4,8 +4,6 @@ cd
 ln -s .tmux/.tmux.conf .tmux.conf 
 ```
 
-```
-git clone https://github.com/9501sam/.tmux
-cd
-ln -s .tmux/.tmux.conf .tmux.conf 
+```sh
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
